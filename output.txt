@@ -1,0 +1,3 @@
+
+
+ Input : {"op":"equal","lhs":{"op":"add","lhs":{"op":"multiply","lhs":2,"rhs":"x"},"rhs":5},"rhs":15}
