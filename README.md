@@ -4,7 +4,8 @@ Parse and Evaluate Mathematical Expression JSON
 For Example :
 
 Input : 
-<code>
+
+```
 {
   "op": "equal",
   "lhs": {
@@ -18,4 +19,4 @@ Input :
   },
   "rhs": 15
 }
-</code>
+```
